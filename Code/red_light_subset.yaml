@@ -1,0 +1,21 @@
+names:
+- bike
+- bus
+- car
+- green_light
+- motobike
+- red_light
+- stop_line
+- truck
+- yellow_light
+nc: 9
+roboflow:
+  license: CC BY 4.0
+  project: red-light-violation-detect-dataset
+  url: https://universe.roboflow.com/traffic-violation-detected/red-light-violation-detect-dataset/dataset/3
+  version: 3
+  workspace: traffic-violation-detected
+train: C:/Users/sav13/OneDrive/Desktop/project/subset_datasets/red_light/train/images
+val: C:/Users/sav13/OneDrive/Desktop/project/subset_datasets/red_light/val/images
+test: C:/Users/sav13/OneDrive/Desktop/project/subset_datasets/red_light/test/images
+
