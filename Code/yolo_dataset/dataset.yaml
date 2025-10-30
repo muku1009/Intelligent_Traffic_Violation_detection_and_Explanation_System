@@ -1,0 +1,6 @@
+train: F:\1. BE CSE AIML\SEM 7\CAPSTONE PROJECT\Intelligent_Traffic_Violation_detection_and_Explanation_System\Code\yolo_dataset\images\train
+val: F:\1. BE CSE AIML\SEM 7\CAPSTONE PROJECT\Intelligent_Traffic_Violation_detection_and_Explanation_System\Code\yolo_dataset\images\val
+test: F:\1. BE CSE AIML\SEM 7\CAPSTONE PROJECT\Intelligent_Traffic_Violation_detection_and_Explanation_System\Code\yolo_dataset\images\test
+
+nc: 1
+names: ['licence']

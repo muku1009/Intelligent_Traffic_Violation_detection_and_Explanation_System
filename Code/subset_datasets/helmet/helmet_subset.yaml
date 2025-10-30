@@ -1,0 +1,7 @@
+names:
+  0: With Helmet
+  1: Without Helmet
+nc: 2
+test: F:\1. BE CSE AIML\SEM 7\CAPSTONE PROJECT\Intelligent_Traffic_Violation_detection_and_Explanation_System\Code\subset_datasets\helmet\test\images
+train: F:\1. BE CSE AIML\SEM 7\CAPSTONE PROJECT\Intelligent_Traffic_Violation_detection_and_Explanation_System\Code\subset_datasets\helmet\train\images
+val: F:\1. BE CSE AIML\SEM 7\CAPSTONE PROJECT\Intelligent_Traffic_Violation_detection_and_Explanation_System\Code\subset_datasets\helmet\val\images

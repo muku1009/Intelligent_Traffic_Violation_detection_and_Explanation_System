@@ -1,9 +1,0 @@
-
-path: C:\Users\sav13\OneDrive\Desktop\project\helmet_yolo
-train: images/train
-val: images/val
-test: images/test
-
-names:
-  0: With Helmet
-  1: Without Helmet

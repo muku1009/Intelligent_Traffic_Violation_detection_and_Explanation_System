@@ -1,0 +1,16 @@
+names:
+- lanes
+- bicycle
+- bus
+- car
+- lanes
+- lanes2
+- lanes3
+- lanes4
+- lanes5
+- motorbike
+- truck
+path: F:\1. BE CSE AIML\SEM 7\CAPSTONE PROJECT\Intelligent_Traffic_Violation_detection_and_Explanation_System\Code\lane_dataset_yolo
+test: F:\1. BE CSE AIML\SEM 7\CAPSTONE PROJECT\Intelligent_Traffic_Violation_detection_and_Explanation_System\Code\lane_dataset_yolo\test\images
+train: F:\1. BE CSE AIML\SEM 7\CAPSTONE PROJECT\Intelligent_Traffic_Violation_detection_and_Explanation_System\Code\lane_dataset_yolo\train\images
+valid: F:\1. BE CSE AIML\SEM 7\CAPSTONE PROJECT\Intelligent_Traffic_Violation_detection_and_Explanation_System\Code\lane_dataset_yolo\valid\images

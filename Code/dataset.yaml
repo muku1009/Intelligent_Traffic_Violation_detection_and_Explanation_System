@@ -1,6 +1,0 @@
-train: C:\Users\sav13\OneDrive\Desktop\project\archive5\yolo_dataset/images/train
-val: C:\Users\sav13\OneDrive\Desktop\project\archive5\yolo_dataset/images/val
-test: C:\Users\sav13\OneDrive\Desktop\project\archive5\yolo_dataset/images/test
-
-nc: 1
-names: ['licence']
